@@ -11,7 +11,7 @@ Sempre fui fascinada por tecnologia e suas infinitas possibilidades. Adoro trans
 ## 🔧 Tecnologias que estudo / utilizo  
 
 ### 💻 Desenvolvimento Web  
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,mysql,php,git,github&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,php,git,github&perline=3)](https://skillicons.dev)
 
 ### 🎮 Desenvolvimento de Jogos (KMIYC)  
 [![My Skills](https://skillicons.dev/icons?i=unity,blender,cs,visualstudio&perline=3)](https://skillicons.dev)  
