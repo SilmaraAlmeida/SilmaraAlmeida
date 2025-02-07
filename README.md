@@ -2,9 +2,7 @@
   <img src="https://i.pinimg.com/originals/35/00/ce/3500ceb8f649f1be4ad2008af36a75ce.gif" alt="GIF animado">
 </div>
 
-# 🌟 Olá, sou a Silmara! - Estudante de Programação e Tecnologia
-
-## 👩‍💻 Sobre mim  
+<h1 align="center"><img src="https://media3.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif?cid=ecf05e47paay6b31bbe5z0nvmk1ix8xds7p6l59rhhy7x9l6&rid=giphy.gif&ct=g" width="40px"/> Olá, sou a Silmara! - Estudante de Programação e Tecnologia </h1>
 
 Sempre fui fascinada por tecnologia e suas infinitas possibilidades. Adoro transformar ideias em algo funcional, misturando lógica, criatividade e inovação.
 
