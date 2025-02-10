@@ -19,8 +19,8 @@ Sempre fui fascinada por tecnologia e suas infinitas possibilidades. Adoro trans
 
 ## 🚧 Projetos em andamento  
 
-- **Gestor do Grão** ☕ – Sistema web para auxiliar produtores de café na organização de suas atividades. *(Em desenvolvimento)*  
-- **Kill Me If You Can** 👁️ – Jogo de terror indie para PC, cheio de mistérios baseado em um sonho que tive quanto criança. *(Em desenvolvimento)*  
+- **Gestor do Grão** ☕ – Sistema web para auxiliar produtores de café na organização de suas atividades. *(Em desenvolvimento)*
+- **Kill Me If You Can** 👁️ – Jogo de terror indie para PC, cheio de mistérios baseado em um sonho que tive quanto criança. *(Em desenvolvimento)*
 
 ## 📢 Bora trocar ideias?  
 
