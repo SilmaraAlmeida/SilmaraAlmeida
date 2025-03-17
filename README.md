@@ -17,9 +17,6 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![unity](https://img.shields.io/badge/-unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117)&nbsp;
-![blender](https://img.shields.io/badge/-blender-0D1117?style=for-the-badge&logo=blender&labelColor=0D1117)&nbsp;
 ![linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![kalilinux](https://img.shields.io/badge/-kalilinux-0D1117?style=for-the-badge&logo=kalilinux&labelColor=0D1117)&nbsp;
 ![raspberrypi](https://img.shields.io/badge/-raspberrypi-0D1117?style=for-the-badge&logo=raspberrypi&labelColor=0D1117)&nbsp;
